@@ -2,3 +2,36 @@
 	path = .registry
 	url = https://github.com/ropensci/champions-program
 	branch = HEAD
+[submodule "Lextale"]
+	path = Lextale
+	url = https://github.com/Ghozayel/Lextale
+[submodule "agroclimatico"]
+	path = agroclimatico
+	url = https://github.com/AgRoMeteorologiaINTA/agroclimatico
+[submodule "bbsTaiwan"]
+	path = bbsTaiwan
+	url = https://github.com/SunnyTseng/bbsTaiwan
+[submodule "bulkreadr"]
+	path = bulkreadr
+	url = https://github.com/gbganalyst/bulkreadr
+[submodule "chartkickR"]
+	path = chartkickR
+	url = https://github.com/BWOlatunji/chartkickR
+[submodule "eph"]
+	path = eph
+	url = https://github.com/ropensci/eph
+[submodule "karel"]
+	path = karel
+	url = https://github.com/ropensci/karel
+[submodule "naijR"]
+	path = naijR
+	url = https://github.com/ropensci/naijR
+[submodule "odbr"]
+	path = odbr
+	url = https://github.com/hsvab/odbr
+[submodule "pcir"]
+	path = pcir
+	url = https://github.com/fblpalmeira/pcir
+[submodule "rgeeExtra"]
+	path = rgeeExtra
+	url = https://github.com/r-earthengine/rgeeExtra
